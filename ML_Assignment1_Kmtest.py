@@ -1,6 +1,4 @@
 # Name: Jazwaur Ankrah
-# Number: 001027898
-# Project 1: Unsupervised Learning
 
 import pandas as pd
 import numpy as np
