@@ -1,6 +1,4 @@
 # Name: Jazwaur Ankrah
-# Number: 001027898
-# Project 1: Unsupervised Learning
 
 import numpy as np
 import matplotlib.pyplot as plt
